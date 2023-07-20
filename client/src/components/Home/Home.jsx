@@ -1,12 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from "react-redux";
-import Cards from '../Cards/Cards';
+
 import Pagination from '../Paginate/Paginate';
 // import libros from '../../libros.json'
 // import axios from 'axios';
 import './Home.css'
 import { obtener_Todos_Libros } from '../../redux/actions/actions';
 import NavBar from '../Nav/Nav';
+import Cardsw from '../Cards/Cardsw';
 
 
 
@@ -42,7 +43,7 @@ const Home = () => {
       <NavBar /> {/* Componente de la barra de navegación */}
       <div className="container mt-5">
         <h1>Lista de Libros</h1>
-        <Cards books={currentBooks} />
+        <Cardsw books={currentBooks} />
         {/* Componente para la paginación */}
         <Pagination
         currentPage={currentPage}

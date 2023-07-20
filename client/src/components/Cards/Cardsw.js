@@ -1,15 +1,16 @@
 import React from 'react';
-import Card from '../Card/Card';
-import './Cards.css'
 
-const Cards = ({ books }) => {
+import './Cardsw.css'
+import Cardw from '../Card/Cardw';
+
+const Cardsw = ({ books }) => {
   return (
     <div className="cards-container">
       {books.map((book) => (
-        <Card key={book.id} book={book} />
+        <Cardw key={book.id} book={book} />
       ))}
     </div>
   );
 };
 
-export default Cards;
+export default Cardsw;

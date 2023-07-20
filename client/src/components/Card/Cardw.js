@@ -1,6 +1,6 @@
 import React from 'react';
-import './Card.css'
-const Card = ({ book }) => {
+import './Cardw.css'
+const Cardw = ({ book }) => {
   return (
     <div className="card">
     <img src={book.fotolibro} alt={book.nombrelibro} className="card-img-top" />
@@ -14,4 +14,4 @@ const Card = ({ book }) => {
   );
 };
 
-export default Card;
+export default Cardw;
