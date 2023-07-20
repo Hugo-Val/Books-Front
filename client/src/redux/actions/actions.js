@@ -4,10 +4,11 @@ import axios from "axios";
 export const obtener_Todos_Libros = () => {
     return async (dispatch) => {
         try {
-          const { data } = await axios.get("http://localhost:3001/todoLibros");
+          const { data } = await axios.get(`http://localhost:3001/obtenerLibros?pagina=2&limite=20`);
+          console.log(data.libros)
           dispatch({
             type: types.OBTENER_TODOS_LIBROS,
-            payload: data,
+            payload: data.libros,
           });
         } catch (error) {
           throw new Error(error.message);

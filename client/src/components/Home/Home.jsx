@@ -34,6 +34,7 @@ const Home = () => {
   }, []);
   useEffect(() => {
     setBooks(todoLibros)
+
   }, [todoLibros]);
 
 

@@ -1,383 +1,323 @@
 [
-    {
+  {
       "nombrelibro": "Física 2",
       "desclibro": "Física 2: Electricidad y Magnetismo",
       "obslibro": "Obra de ficción",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 123,
+      "preciolibro": 12,
       "displibro": 3,
       "nombregenero": "Universitario",
-      "esborrado": 0
-    },
-    {
+      "esborrado": 0,
+      "nombreautor": "Albert Einstein"
+  },
+  {
       "nombrelibro": "Historia Antigua",
       "desclibro": "Un viaje a través del tiempo",
       "obslibro": "Libro de historia",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 85.5,
+      "preciolibro": 85,
       "displibro": 5,
       "nombregenero": "Historia",
-      "esborrado": 0
-    },
-    {
+      "esborrado": 0,
+      "nombreautor": "Jane Austen"
+  },
+  {
       "nombrelibro": "El Reino Perdido",
       "desclibro": "Una emocionante aventura en busca del tesoro",
       "obslibro": "Fantasía épica",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 69.99,
+      "preciolibro": 69,
       "displibro": 10,
       "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
+      "esborrado": 0,
+      "nombreautor": "J.R.R. Tolkien"
+  },
+  {
       "nombrelibro": "El Experimento",
       "desclibro": "Un misterioso experimento con consecuencias inesperadas",
       "obslibro": "Ciencia ficción",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 55.75,
+      "preciolibro": 55,
       "displibro": 8,
       "nombregenero": "Ciencia Ficción",
-      "esborrado": 0
-    },
-    {
+      "esborrado": 0,
+      "nombreautor": "Isaac Asimov"
+  },
+  {
       "nombrelibro": "Romance en París",
       "desclibro": "Una historia de amor en la ciudad del amor",
       "obslibro": "Novela romántica",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 32.25,
+      "preciolibro": 32,
       "displibro": 15,
       "nombregenero": "Romance",
-      "esborrado": 0
-    },
-    {
+      "esborrado": 0,
+      "nombreautor": "Emily Brontë"
+  },
+  {
       "nombrelibro": "El Enigma del Tiempo",
       "desclibro": "Un viaje a través de las paradojas temporales",
       "obslibro": "Novela de misterio",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 40.95,
+      "preciolibro": 40,
       "displibro": 20,
       "nombregenero": "Misterio",
-      "esborrado": 0
-    },
-    {
+      "esborrado": 0,
+      "nombreautor": "Agatha Christie"
+  },
+  {
       "nombrelibro": "El Último Viaje",
       "desclibro": "Una aventura en busca de lo desconocido",
       "obslibro": "Aventura",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 27.5,
+      "preciolibro": 275,
       "displibro": 12,
       "nombregenero": "Aventura",
-      "esborrado": 0
-    },
-    {
+      "esborrado": 0,
+      "nombreautor": "Jules Verne"
+  },
+  {
       "nombrelibro": "El Secreto del Bosque",
       "desclibro": "Un misterio por resolver en el corazón del bosque",
       "obslibro": "Misterio",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 18.75,
+      "preciolibro": 1875,
       "displibro": 25,
       "nombregenero": "Misterio",
-      "esborrado": 0
-    },
-    {
+      "esborrado": 0,
+      "nombreautor": "Arthur Conan Doyle"
+  },
+  {
       "nombrelibro": "El Gremio de Magos",
       "desclibro": "Una academia de magia y hechicería",
       "obslibro": "Fantasía",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 33.99,
+      "preciolibro": 3399,
       "displibro": 18,
       "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
+      "esborrado": 0,
+      "nombreautor": "Lev Grossman"
+  },
+  {
       "nombrelibro": "Código Oculto",
       "desclibro": "Un enigma por resolver en la criptografía moderna",
       "obslibro": "Misterio",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 25.5,
+      "preciolibro": 255,
       "displibro": 14,
       "nombregenero": "Misterio",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "Los Señores del Tiempo",
-      "desclibro": "Una travesía por los universos paralelos",
-      "obslibro": "Ciencia ficción",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 60.25,
-      "displibro": 9,
-      "nombregenero": "Ciencia Ficción",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "La Joya del Nilo",
-      "desclibro": "Una aventura en busca del tesoro perdido",
-      "obslibro": "Aventura",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 42.95,
-      "displibro": 7,
-      "nombregenero": "Aventura",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Jardín de las Sombras",
-      "desclibro": "Un misterio oculto en un antiguo jardín",
-      "obslibro": "Misterio",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 30.5,
-      "displibro": 11,
-      "nombregenero": "Misterio",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Hechicero y la Espada",
-      "desclibro": "Una lucha por el poder mágico supremo",
+      "esborrado": 0,
+      "nombreautor": "Dan Brown"
+  },
+  {
+      "nombrelibro": "Los Anillos de Poder",
+      "desclibro": "Una epopeya de batallas y amistades en busca del destino",
       "obslibro": "Fantasía épica",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 55.75,
-      "displibro": 13,
+      "preciolibro": 55,
+      "displibro": 6,
       "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "La Tumba Perdida",
-      "desclibro": "Una emocionante aventura arqueológica",
-      "obslibro": "Aventura",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 37.5,
-      "displibro": 16,
-      "nombregenero": "Aventura",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Círculo de los Magos",
-      "desclibro": "Una sociedad secreta de hechiceros",
-      "obslibro": "Fantasía",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 29.99,
-      "displibro": 12,
-      "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "Los Archivos Secretos",
-      "desclibro": "Un caso de investigación sobrenatural",
+      "esborrado": 0,
+      "nombreautor": "J.K. Rowling"
+  },
+  {
+      "nombrelibro": "El Misterio del Lago",
+      "desclibro": "Una serie de sucesos extraños que desconciertan a la policía local",
       "obslibro": "Misterio",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 24.5,
+      "preciolibro": 1925,
+      "displibro": 20,
+      "nombregenero": "Misterio",
+      "esborrado": 0,
+      "nombreautor": "Agatha Christie"
+  },
+  {
+      "nombrelibro": "El Hechicero",
+      "desclibro": "Un joven aprendiz de mago desafía al malvado hechicero",
+      "obslibro": "Fantasía",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 3075,
+      "displibro": 15,
+      "nombregenero": "Fantasía",
+      "esborrado": 0,
+      "nombreautor": "Christopher Paolini"
+  },
+  {
+      "nombrelibro": "Misterio en el Expreso de Medianoche",
+      "desclibro": "Un asesinato en el tren más famoso del mundo",
+      "obslibro": "Misterio",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 28,
+      "displibro": 10,
+      "nombregenero": "Misterio",
+      "esborrado": 0,
+      "nombreautor": "Agatha Christie"
+  },
+  {
+      "nombrelibro": "El Archivo",
+      "desclibro": "Una historia de secretos y conspiraciones en un mundo distópico",
+      "obslibro": "Ciencia ficción distópica",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 355,
+      "displibro": 7,
+      "nombregenero": "Ciencia Ficción",
+      "esborrado": 0,
+      "nombreautor": "Brandon Sanderson"
+  },
+  {
+      "nombrelibro": "Las Crónicas de Invierno",
+      "desclibro": "Un mundo de fantasía y maravillas en eterno invierno",
+      "obslibro": "Fantasía épica",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 4975,
+      "displibro": 4,
+      "nombregenero": "Fantasía",
+      "esborrado": 0,
+      "nombreautor": "C.S. Lewis"
+  },
+  {
+      "nombrelibro": "El Asesinato del Orient Express",
+      "desclibro": "Un crimen misterioso que solo puede resolver Hercule Poirot",
+      "obslibro": "Misterio",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 22,
+      "displibro": 18,
+      "nombregenero": "Misterio",
+      "esborrado": 0,
+      "nombreautor": "Agatha Christie"
+  },
+  {
+      "nombrelibro": "El Guardián de los Sueños",
+      "desclibro": "Una historia sobre la importancia de los sueños en la infancia",
+      "obslibro": "Fantasía",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 175,
+      "displibro": 10,
+      "nombregenero": "Fantasía",
+      "esborrado": 0,
+      "nombreautor": "Gabriel García Márquez"
+  },
+  {
+      "nombrelibro": "El Silencio de la Ciudad Blanca",
+      "desclibro": "Una serie de crímenes aterradores en Vitoria-Gasteiz",
+      "obslibro": "Misterio",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 2999,
+      "displibro": 8,
+      "nombregenero": "Misterio",
+      "esborrado": 0,
+      "nombreautor": "Eva García Sáenz de Urturi"
+  },
+  {
+      "nombrelibro": "El Vuelo del Fénix",
+      "desclibro": "Una travesía para renacer de las cenizas",
+      "obslibro": "Aventura épica",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 375,
+      "displibro": 15,
+      "nombregenero": "Aventura",
+      "esborrado": 0,
+      "nombreautor": "Paulo Coelho"
+  },
+  {
+      "nombrelibro": "El Descubrimiento",
+      "desclibro": "Una expedición arqueológica que desvela secretos antiguos",
+      "obslibro": "Misterio arqueológico",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 245,
+      "displibro": 20,
+      "nombregenero": "Misterio",
+      "esborrado": 0,
+      "nombreautor": "Douglas Preston"
+  },
+  {
+      "nombrelibro": "La Ciudad de Cristal",
+      "desclibro": "Un enigma que solo puede resolver el detective Harry Angel",
+      "obslibro": "Misterio",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 26,
       "displibro": 15,
       "nombregenero": "Misterio",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Legado de los Dioses",
-      "desclibro": "Una batalla épica entre dioses y mortales",
+      "esborrado": 0,
+      "nombreautor": "Paul Auster"
+  },
+  {
+      "nombrelibro": "El Legado",
+      "desclibro": "Una profecía antigua y un destino que cambiará el reino para siempre",
       "obslibro": "Fantasía épica",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 65.25,
-      "displibro": 10,
-      "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Código de los Templarios",
-      "desclibro": "Una búsqueda de tesoros y misterios medievales",
-      "obslibro": "Misterio",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 28.5,
-      "displibro": 9,
-      "nombregenero": "Misterio",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Retorno del Mago",
-      "desclibro": "La continuación de una legendaria saga de fantasía",
-      "obslibro": "Fantasía épica",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 48.75,
-      "displibro": 11,
-      "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Experimento II",
-      "desclibro": "Las consecuencias de un experimento fallido",
-      "obslibro": "Ciencia ficción",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 37.25,
-      "displibro": 7,
-      "nombregenero": "Ciencia Ficción",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Guardián de la Llave",
-      "desclibro": "Una búsqueda para proteger un objeto mágico",
-      "obslibro": "Fantasía",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 33.99,
-      "displibro": 6,
-      "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Círculo de Piedra",
-      "desclibro": "Un misterio antiguo con la clave para salvar el mundo",
-      "obslibro": "Misterio",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 29.99,
-      "displibro": 12,
-      "nombregenero": "Misterio",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "Los Magos del Aire",
-      "desclibro": "Un viaje en busca de los elementos mágicos",
-      "obslibro": "Fantasía",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 45.25,
-      "displibro": 8,
-      "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Fuego de la Venganza",
-      "desclibro": "Una historia de venganza y redención",
-      "obslibro": "Aventura",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 36.75,
-      "displibro": 7,
-      "nombregenero": "Aventura",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "Los Secretos del Universo",
-      "desclibro": "Una exploración de los misterios cósmicos",
-      "obslibro": "Ciencia no ficción",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 32.99,
-      "displibro": 10,
-      "nombregenero": "Ciencia",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Enigma del Oráculo",
-      "desclibro": "Un antiguo oráculo con secretos del futuro",
-      "obslibro": "Misterio",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 22.5,
-      "displibro": 14,
-      "nombregenero": "Misterio",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Ojo de la Serpiente",
-      "desclibro": "Una búsqueda para desentrañar un antiguo mito",
-      "obslibro": "Aventura",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 29.75,
-      "displibro": 7,
-      "nombregenero": "Aventura",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "La Profecía Perdida",
-      "desclibro": "Una antigua profecía con el destino de la humanidad",
-      "obslibro": "Fantasía épica",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 55.25,
-      "displibro": 9,
-      "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Legado del Hechicero",
-      "desclibro": "La continuación de la saga de los hechiceros",
-      "obslibro": "Fantasía épica",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 45.75,
+      "preciolibro": 45,
       "displibro": 12,
       "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "Los Archivos Ocultos",
-      "desclibro": "Un caso sobrenatural por resolver",
-      "obslibro": "Misterio",
+      "esborrado": 0,
+      "nombreautor": "Christopher Paolini"
+  },
+  {
+      "nombrelibro": "Los Hijos del Bosque",
+      "desclibro": "Una aventura mágica en un mundo oculto en el bosque",
+      "obslibro": "Fantasía mágica",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 24.5,
+      "preciolibro": 33,
       "displibro": 10,
-      "nombregenero": "Misterio",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "Los Hijos del Dragón",
-      "desclibro": "Un viaje en busca de la última estirpe de dragones",
+      "nombregenero": "Fantasía",
+      "esborrado": 0,
+      "nombreautor": "Nora Roberts"
+  },
+  {
+      "nombrelibro": "La Piedra Filosofal",
+      "desclibro": "El primer año de Harry Potter en Hogwarts",
       "obslibro": "Fantasía",
       "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 59.99,
+      "preciolibro": 295,
+      "displibro": 5,
+      "nombregenero": "Fantasía",
+      "esborrado": 0,
+      "nombreautor": "J.K. Rowling"
+  },
+  {
+      "nombrelibro": "El Mar de los Monstruos",
+      "desclibro": "La búsqueda del Vellocino de Oro y un enemigo inesperado",
+      "obslibro": "Fantasía épica",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 2499,
+      "displibro": 15,
+      "nombregenero": "Fantasía",
+      "esborrado": 0,
+      "nombreautor": "Rick Riordan"
+  },
+  {
+      "nombrelibro": "El Bosque de los Susurros",
+      "desclibro": "Un lugar misterioso y un secreto que podría cambiar el mundo",
+      "obslibro": "Misterio",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 1899,
+      "displibro": 20,
+      "nombregenero": "Misterio",
+      "esborrado": 0,
+      "nombreautor": "Clara Tahoces"
+  },
+  {
+      "nombrelibro": "El Castillo Ambulante",
+      "desclibro": "Una aventura mágica y un castillo que deambula por las colinas",
+      "obslibro": "Fantasía",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 275,
+      "displibro": 10,
+      "nombregenero": "Fantasía",
+      "esborrado": 0,
+      "nombreautor": "Diana Wynne Jones"
+  },
+  {
+      "nombrelibro": "El Laberinto de los Espíritus",
+      "desclibro": "Una saga familiar llena de secretos y venganza en la Barcelona del siglo XX",
+      "obslibro": "Misterio",
+      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
+      "preciolibro": 385,
       "displibro": 8,
-      "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "La Fuerza de la Naturaleza",
-      "desclibro": "Una exploración de los fenómenos naturales",
-      "obslibro": "Ciencia no ficción",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 27.99,
-      "displibro": 13,
-      "nombregenero": "Ciencia",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Ojo del Cíclope",
-      "desclibro": "Una búsqueda para encontrar un antiguo artefacto",
-      "obslibro": "Aventura",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 33.75,
-      "displibro": 6,
-      "nombregenero": "Aventura",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Legado Mágico",
-      "desclibro": "Una búsqueda para proteger la magia del mundo",
-      "obslibro": "Fantasía",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 44.99,
-      "displibro": 9,
-      "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "Los Archivos Sobrenaturales",
-      "desclibro": "Un caso de lo inexplicable por resolver",
-      "obslibro": "Misterio",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 26.5,
-      "displibro": 10,
       "nombregenero": "Misterio",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "La Torre de los Magos",
-      "desclibro": "Una academia mágica en lo alto de una torre",
-      "obslibro": "Fantasía",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 31.99,
-      "displibro": 11,
-      "nombregenero": "Fantasía",
-      "esborrado": 0
-    },
-    {
-      "nombrelibro": "El Viaje del Navegante",
-      "desclibro": "Una travesía a través de los océanos desconocidos",
-      "obslibro": "Aventura",
-      "fotolibro": "https://res.cloudinary.com/dmjkjz1oa/image/upload/v1688138945/shoppieimg/lo7sse7rc5fmpg5enkna.png",
-      "preciolibro": 38.75,
-      "displibro": 7,
-      "nombregenero": "Aventura",
-      "esborrado": 0
-    }
-  ]
+      "esborrado": 0,
+      "nombreautor": "Carlos Ruiz Zafón"
+  }
+]
+
   

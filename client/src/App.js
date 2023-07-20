@@ -29,6 +29,7 @@ document.title = "Book Club";
  async function enviarLibros() {
    for (const libro of librosJSON) {
      try {
+      console.log(libro)
        await enviarLibro(libro);
      } catch (error) {
        console.log(error.message)
