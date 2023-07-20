@@ -1,6 +1,19 @@
 import * as types from './types';
+import axios from "axios";
 
-export const obtener_Todos_Libros = () => ({})
+export const obtener_Todos_Libros = () => {
+    return async (dispatch) => {
+        try {
+          const { data } = await axios.get("http://localhost:3001/todoLibros");
+          dispatch({
+            type: types.OBTENER_TODOS_LIBROS,
+            payload: data,
+          });
+        } catch (error) {
+          throw new Error(error.message);
+        }
+      };
+};
 export const obtener_Libro_Por_Id = () => ({})
 export const agregar_Libro = () => ({})
 export const eliminar_Libro = () => ({})
