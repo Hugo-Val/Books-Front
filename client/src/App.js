@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import './App.css';
-// import CrearLibro from './components/CrearLibro/CrearLibro';
+import CrearLibro from './components/CrearLibro/CrearLibro';
 
 document.title = "Club del libro";
 
@@ -18,7 +18,7 @@ function App() {
         <Route path="/feed" element={<h1>Feed</h1>} />
         <Route path="/libro/:id" element={<h1>Get by Id</h1>} />
         <Route path="/inicio" element={<h1>Get All</h1>} />
-        {/* <Route path="/crear" element={<CrearLibro />} /> */}
+        <Route path="/crear" element={<CrearLibro />} />
         <Route path="/equipo" element={<h1>About</h1>} />
         <Route path="/*" element={<h1>Not Found</h1>} />
       </Routes>
