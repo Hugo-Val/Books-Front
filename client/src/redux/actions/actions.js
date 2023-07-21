@@ -11,5 +11,8 @@ export const ordenar_Libros = () => ({})
 export const quitar_Orden = () => ({})
 export const siguiente_Pagina = () => ({})
 export const pagina_Anterior = () => ({})
-export const agregar_Localizacion = () => ({})
+export const agregar_Localizacion = (path) => ({
+    type: types.AGREGAR_LOCALIZACION,
+    payload: path
+})
 export const buscar_Libro_Por_Titulo = () => ({})
