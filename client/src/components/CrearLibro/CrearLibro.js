@@ -1,11 +1,33 @@
-import React, { useState } from 'react';
+import React from 'react';
+import { Formik, Form, Field, ErrorMessage } from 'formik';
+import * as Yup from 'yup';
+import { useState } from 'react';
 import './CrearLibro.css';
 
+
+
+
+
 const CrearLibro = () => {
-  const [autor, setAutor] = useState('');
-  const [nombreLibro, setNombreLibro] = useState('');
-  const [genero, setGenero] = useState('');
-  const [imagen, setImagen] = useState(null);
+  const requiredString = Yup.string().required("Campo requerido");
+
+  // Al menos 8 caracteres, incluyendo al menos una letra minúscula, una letra mayúscula, un número y un carácter especial
+  const regexPassword =
+    /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
+
+ const initialValues = {
+    autor: '',
+    nombreLibro: '',
+    genero: '',
+    imagen: null, // Imagen inicialmente es null
+  };
+
+  const esquemaValidacion = Yup.object({
+    nombre: Yup.string().required('El nombre es obligatorio'),
+    correoElectronico: Yup.string().email('El formato del correo electrónico no es válido').required('El correo electrónico es obligatorio'),
+    // Agrega más validaciones para otros campos si es necesario
+  });
+  
 
   const handleSubmit = (event) => {
     event.preventDefault();
@@ -26,25 +48,35 @@ const CrearLibro = () => {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
-      <label>
-        Autor/a:
-        <input type="text" value={autor} onChange={(e) => setAutor(e.target.value)} required />
-      </label>
-      <label>
-        Nombre del libro:
-        <input type="text" value={nombreLibro} onChange={(e) => setNombreLibro(e.target.value)} required />
-      </label>
-      <label>
-        Género:
-        <input type="text" value={genero} onChange={(e) => setGenero(e.target.value)} required />
-      </label>
-      <label>
-        Cargar imagen:
-        <input type="file" accept="image/*" onChange={handleImagenChange} />
-      </label>
-      <input type="submit" value="Enviar" />
-    </form>
+    <Formik
+      initialValues={{
+        autor: '',
+        nombreLibro: '',
+        genero: '',
+      }}
+      validationSchema={esquemaValidacion}
+      onSubmit={handleSubmit}
+    >
+      <Form>
+        <label>
+          Autor/a:
+          <Field type="text" name="autor" required />
+        </label>
+        <label>
+          Nombre del libro:
+          <Field type="text" name="nombreLibro" required />
+        </label>
+        <label>
+          Género:
+          <Field type="text" name="genero" required />
+        </label>
+        <label>
+          Cargar imagen:
+          <Field type="file" name="imagen" accept="image/*" />
+        </label>
+        <button type="submit">Enviar</button>
+      </Form>
+    </Formik>
   );
 };
 

@@ -1,64 +1,84 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-  }
-  
-  h1 {
-    text-align: center;
-  }
-  
-  form {
-    max-width: 400px;
-    margin: 20px auto;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-  
-  label,
-  input {
-    display: block;
-    margin-bottom: 10px;
-    margin-right: 20px;
-  }
-  
-  input[type="text"],
-  input[type="file"] {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
-  
-  input[type="submit"] {
-    margin-top: 20px;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  input[type="submit"]:hover {
-    background-color: #0056b3;
-  }
-  
-  input[type="file"] {
-    padding: 0;
-    border: none;
-  }
-  
-  .App {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-  }
-  
-  .form-container {
-    margin: 20px;
-  }
-  
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-image: url("https://images.pexels.com/photos/3808904/pexels-photo-3808904.jpeg");
+  background-size: cover; 
+  background-position: bottom;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #f0f0f0;
+}
+
+label,
+input {
+  display: block;
+  margin-bottom: 10px;
+  margin-right: 20px;
+}
+
+input[type="text"],
+input[type="file"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+input[type="submit"] {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+input[type="file"] {
+  padding: 0;
+  border: none;
+  background-color: #007bff; /* Color de fondo para el botón "seleccionar archivo" */
+  color: #fff; /* Color del texto para el botón "seleccionar archivo" */
+  padding: 10px 20px; /* Espaciado interior para el botón "seleccionar archivo" */
+  border-radius: 5px; /* Radio de borde para el botón "seleccionar archivo" */
+  cursor: pointer; /* Cambia el cursor cuando se pasa sobre el botón "seleccionar archivo" */
+
+  /* Estilos de tipografía */
+  font-family: Arial, sans-serif; /* Cambia la fuente a Arial o la fuente que desees */
+  font-size: 16px; /* Tamaño de fuente para el botón */
+  font-weight: bold; /* Peso de la fuente (puedes usar 'normal', 'bold', etc.) */
+  text-transform: uppercase; /* Convierte el texto a mayúsculas */
+}
+
+
+input[type="file"]:hover {
+  background-color: #0056b3; /* Cambia el color de fondo cuando se pasa sobre el botón "seleccionar archivo" */
+}
+
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.form-container {
+  margin: 20px;
+}
